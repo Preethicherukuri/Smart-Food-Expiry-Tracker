@@ -1,0 +1,15 @@
+Milk,Dairy,2025-11-25,2025-11-29,2
+Eggs,Dairy,2025-11-26,2025-12-05,12
+Bread,Bakery,2025-11-22,2025-11-24,1
+Tomatoes,Vegetables,2025-11-26,2025-11-28,5
+Chicken,Meat & Poultry,2025-11-27,2025-11-28,1
+Yogurt,Dairy,2025-11-23,2025-11-25,4
+Apples,Fruits,2025-11-24,2025-12-10,6
+Rice,Grains & Pasta,2025-11-20,2026-05-15,1
+Pasta,Grains & Pasta,2025-11-22,2026-03-20,2
+Cheese,Dairy,2025-11-26,2025-12-15,1
+Orange Juice,Beverages,2025-11-23,2025-11-27,1
+Potatoes,Vegetables,2025-11-25,2025-12-05,8
+Cereal,Grains & Pasta,2025-11-20,2025-12-25,1
+Butter,Dairy,2025-11-26,2025-12-10,1
+Fish,Meat & Poultry,2025-11-27,2025-11-29,2
